@@ -12,3 +12,6 @@ As Grace Hopper said:
 
 > I’ve always been more interested
 > in the future than in the past.
+
+
+<img src="https://cdn.pixabay.com/photo/2016/03/31/19/58/avatar-1295429_960_720.png"/>
